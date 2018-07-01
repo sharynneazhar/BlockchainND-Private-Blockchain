@@ -2,7 +2,7 @@
   "name": "blockchainnd-private-blockchain",
   "version": "1.0.0",
   "description": "Project 2 of Udacity's Blockchain Nanodegree",
-  "main": "levelSandbox.js",
+  "main": "simpleChain.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
